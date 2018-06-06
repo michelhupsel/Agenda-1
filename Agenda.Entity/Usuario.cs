@@ -19,7 +19,7 @@ namespace Agenda.Entity
 
     public enum Perfil
     { 
-    
+        //Os tipos de perfil de usuário
         Administrador = 1,
         Operador = 2,
         Suporte = 3
